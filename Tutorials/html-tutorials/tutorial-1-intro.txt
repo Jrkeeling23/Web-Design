@@ -1,0 +1,62 @@
+w3schools.com/html
+
+
+
+WHAT IS HTML?:
+- Hyper Text Markup Language
+- structures web page
+- elements tell brower what to display
+- tags represent elements
+- tags label pieces of content
+- Browser do NOT display html tags, but rather use them to render the content
+
+
+
+DENOTIONS:
+- <!DOCTYPE html>: Declaration; defines the document as html5
+*** the remaining are 'Elements' ***
+- <html>: root of html page 
+- <head>: contains meta info about document
+- <title>: specifies title of the document
+- <body>: contains visible page content
+- <h1>: large 'Header'
+*** h1, h2, h3, ... are all headers the descend in size
+- <p>: paragraph
+
+
+
+HOW TO USE TAGS: 
+- <tagname> content goes here </tagname>
+*** <start tag> content <end tag> ... or opening and closing tab respectivley. *** 
+
+
+
+STRUCTURE:
+
+-------------------------------------------
+<html>
+        -----------------------------------
+        <head>
+                <title> Some Title </tile>
+        </head>
+        -----------------------------------
+        
+        -----------------------------------
+        <body>
+                ___________________________
+                <h1> Header <\h1>
+                <p> Paragraph </p>
+                <p> Why not another? </p>
+                ___________________________
+        </body>
+        -----------------------------------
+</html>
+-------------------------------------------
+
+- The dashes show how elements are used within eachother while the underscore represents what is actually displayed.
+
+
+
+DECLARATIONS:
+- must appear at top of page
+- NOT case sensitive
