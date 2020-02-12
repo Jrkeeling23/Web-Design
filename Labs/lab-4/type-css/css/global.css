@@ -1,0 +1,56 @@
+.container{
+	width: 750px;
+	margin: auto;
+
+	font-family: 'Quattrocento', serif;
+	background-color:whitesmoke;
+
+	font-style: normal;
+}
+
+h1,h2,h3,h4,h5,h6{
+	padding: 0px 10px;
+	font-family: 'Cinzel', serif;	
+	font-style: normal;
+	font-weight: lighter;
+
+	padding: 10px;
+	background-color: lightgrey;
+	color: rgb(50,50,50)
+}
+
+p{
+	padding: 0px 10px;
+	font-family: 'Quattrocento', serif;	
+	color:rgb(50,50,50);
+	font-style: normal;
+	font-size: 15px;
+	line-height: 1.5;
+	
+}
+
+body{
+	background-color: black;
+}
+
+li, ol, ul{
+	font-family: 'Quattrocento', serif;
+	font-style: normal;
+	font-weight: lighter;	
+	color:rgb(50,50,50);
+}
+
+h1, blockquote{
+	background-color: #351D42;
+	color: whitesmoke;
+	padding: 5px;
+}
+h1{
+	text-align: center;
+	border:5px solid whitesmoke;
+}
+
+h4,h5,h6 {
+	color: black;
+	font-size: 15px;
+}
