@@ -1,0 +1,56 @@
+/*
+    Modify this CSS (Cascading Style Sheets) file to style
+    the HTML page for Lab 3 to the specifications listed
+    on for the assignment. You won't need to change anything
+    in the HTML, but you will have to add some element selectors
+    and several style attributes to this CSS file. 
+
+    To get started, remove the comment marks from around the color: gray
+    css rule below, and check that the HTML file is rendering all the text
+    in gray instead of black.
+*/
+
+body {
+    color: gray;
+    font-family: serif;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    height: 60px;
+    color: pink;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #7194B3;
+    font-style: italic;
+}
+
+img {
+    background-image: url(images/pinkcar.jpg);
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 30pt;
+    border-color: #7194B3;
+}
+
+ul {
+    margin-bottom: 10px;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+strong {
+    text-transform: uppercase;
+    font-weight: normal;
+    color: black;
+}
