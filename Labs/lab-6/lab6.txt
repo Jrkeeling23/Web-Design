@@ -1,0 +1,81 @@
+KEY IDEAS OF WEBSITE COMPOSITION
+
+Find your focus: Burger king website... big burger in the middle.
+
+Direct your eyes with leading lines: Think of img of train.
+
+Scale abd Heirarchy: Easy to read. Heirarchies are well thought out and easy to read/access. The size of images and font aid.
+
+Balance out your Elements: One image can span across... 3 smaller images can be placed elsewhere across the width as well. Colors.
+
+Use Elements that compliment each other:
+
+Boost or Reduce your Contrast: White with tranparent grey over image = Depth of Contrast: Match the vibe.
+
+Dont forget White Space: Keep simple and not too much 
+
+Align Elements: ELements are appealing to look at due to alignment
+
+Divide your Design into thirds: Literally cut into thirds
+
+Grids: Keep size and spacing consitent
+
+Interesting Grids: Do not be boring
+
+Clothesline Method: 
+
+
+
+Each discussion must discuss the following points we talked about in lecture.
+• Navigation (clear and uncluttered)
+• Message is clear (Images and Text)
+• Appropriate use of type (fonts, line-length, size, contrast )
+• Appropriate use of color
+• Pieces of site are the appropriate size (Hierarchy)
+
+3 Great Websites: 
+Walmart.com
+-
+Mcdonalds.com
+Lexus.com
+
+3 Terrible Websites:
+https://www.jamilin.com/
+http://pennyjuice.jmconsulting.org/
+https://www.art.yale.edu/
+
+
+RELEVANT TO ME:
+1) Amazon:
+- Balance
+- Interesting grids
+- Contrast 
+- Hierarchy
+- Balanced 
+
+2) Scheels:
+- Aligned elements
+- Interesting grids are accomplished
+- Is divided into thirds
+- Balanced and contrast
+- Scaled
+
+3) Github
+- Elements are aligned
+- The contrast is consitent and simple
+- Scale and Hierarchy are easily readable and makes sense.
+- For each page, the focus is easily made.
+- Grids make sense, have equal spacing and are unique.
+
+4) LinkedIn
+- Follows the division of thirds. 
+- Unique and sleek grid format
+- Scale makes sense and is easy to read
+- The flow is kept by directing the grids 
+- White space is enough to make the website feel less cluttered.
+
+5) Fender 
+- Fender use a reduced contract with white space to make the feeling more spread out
+- Scale makes sense and contributes to readability
+-Grids are easy readable and flow is kept through leading lines.
+- Balanced in terms of elements and contrast.
