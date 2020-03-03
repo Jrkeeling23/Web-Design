@@ -1,0 +1,116 @@
+/*Add the styling needed to match the mockup. Refer to the styleguide for font and color info*/
+/* colors:
+Yellow 1,2: #D9C35A #F2E85E
+Grey: #333333
+Blue: #125DC0, #39D0F2
+Red: #F33947
+*/
+body {
+    margin:0;
+    font-family:  'Roboto' sans-serif;
+    background-color: #f33947;
+    font-weight: lighter;
+    display: block;
+    font-size: 12pt;
+    height: 100%;
+    overflow-x: hidden
+}
+
+#top{
+    background-color: #39D0F2;
+    color: #125DC0;
+    padding: 20px 0px 20px 25px;
+    width: 99%;
+    border-bottom:solid 8px #333333;
+}
+
+#bottom{
+    background-color: #39D0F2;
+    color: #125DC0;
+    padding: 20px 20px 20px 0px;
+    text-align: right;
+    width: 99%;
+    height: 10px;
+    border-top:solid 8px #333333;
+    clear: both;
+    position: absolute;
+    bottom: 0;
+}
+#contents{
+    background-color: #D9C35A;
+
+}
+#lab_2{
+    background-color: #D9C35A;  
+    position: absolute;
+    margin-top: 100px;
+    border-top:solid 8px #333333;
+    border-bottom:solid 8px #333333;
+}
+
+h1 {
+    font-family: 'Luckiest Guy';
+    font-size: 48px;
+    color: #125DC0;
+    background-color: #F2E85E;
+    padding:  20px 10px 10px 25px;
+    letter-spacing: 4px;  
+    text-align: center;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Luckiest Guy';
+    font-size: 32px;
+    color: #125DC0;
+    background-color: #F2E85E;
+    padding:  20px 0px 10px 25px;
+    letter-spacing: 4px;  
+    text-align: center;    
+}
+
+#title {
+    display: block;
+    background-color: #D9C35A;
+    border-left: solid 8px #333333;
+    border-right:solid 8px #333333;
+    width: 50%;
+    left: 25%;
+    top: 0;
+    float: right;
+    /* margin: auto; */
+    padding-top: 50px;
+    font-weight: normal;
+}
+
+img {
+    border: #333333;
+    border-width: 8px;
+    border-style: solid;
+    display: block;
+    padding-top: 0;
+    height: 250px;
+    width: 350px;
+    position: middle;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    padding: 8px 18px 25px 18px;
+    margin-bottom: 0;
+    font-family: 'Roboto',sans-serif;
+    line-height: 150%;
+}
+
+.important{
+    font-weight: bolder;
+    font-style:  oblique;
+}
+
+p::after{
+    content:" zzril";
+    font-weight:oblique;
+}
