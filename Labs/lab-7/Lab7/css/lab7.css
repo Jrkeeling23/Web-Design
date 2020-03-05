@@ -5,3 +5,102 @@
  * modify the accompanying HTML to create
  * the style and layout described in the assignment.
  *****************************************************/
+
+
+
+body {
+    margin-left:auto;
+    margin-right: auto;
+    margin: auto;
+    background-image: url(https://external-preview.redd.it/kgsdrgapzWMWOtxDVD_7-M6T-NKnCkTAM3OtpY4tjAs.jpg?width=960&crop=smart&auto=webp&s=af6ea64dad68aaab9677c88582ee0f95959b28c0);
+    height: 100%;
+    display: table;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+}
+
+header{
+    top: 0px;
+    padding: 5px;
+    background-color: #FF818BEE;
+    margin-bottom: 25px;
+    border-bottom: 5px solid #26B9C8AA;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    height: 100%;
+    text-shadow: 4px 2px #26B9C8;
+    font-size: 30pt;
+    color: white;
+    font-weight: bold;
+}
+
+h1 h2 {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#crazyboxes {
+    position: relative;
+    width: 50%;
+    height: auto;
+    padding: 10px;
+    float: left;
+    border-radius: 50%;
+    content: url(https://vignette.wikia.nocookie.net/spongebob/images/7/78/Survival_of_the_Idiots_082.png/revision/latest/scale-to-width-down/350?cb=20191128212016);
+  }
+
+#sidebar {
+    padding: 20px;
+    width: 33%;
+    height: 90%;
+    padding: 25px;
+    float: left;
+    background-color: #26B9C8EE;
+    border-top: 4px solid #0457A0AA;
+    border-bottom: 4px solid #0457A0AA;
+    border-right: 4px solid #0457A0AA;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    color: white;
+    text-shadow: 1px 1px #555555;
+    font-weight: bolder;
+     /* #0457A0; */
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    padding: 10px;
+    line-height: 1.6;
+    margin: 10px;
+}
+
+
+#main {
+    background-color:#FFFFFFDD;
+    width: 67%;
+    height: 90%;
+    float: right;
+    box-sizing: border-box;
+    border-top: 4px solid #0457A0AA;
+    border-bottom: 4px solid #0457A0AA;
+    margin-bottom: 25px;
+}
+
+
+footer {
+    box-sizing: border-box;
+    clear: left;
+    padding: 15px;
+    background-color: #FF818BEE;
+    color: white;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-top: solid 5px #26B9C8AA;
+    letter-spacing: normal;
+}
